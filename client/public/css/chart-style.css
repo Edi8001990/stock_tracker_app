@@ -1,0 +1,15 @@
+@import 'https://code.highcharts.com/css/highcharts.css';
+
+
+#graph {
+	height: 30rem;
+	margin: 0 auto;
+}
+
+.highcharts-background {
+    fill: rgb(0,0,0,0);
+  }
+
+  .highcharts-grid {
+      fill: #223;
+  }
